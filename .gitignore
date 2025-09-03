@@ -30,3 +30,5 @@ migrate_working_dir/
 build/
 coverage/
 **/failures/
+config.bat
+node_modules
